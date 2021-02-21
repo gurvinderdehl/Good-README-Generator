@@ -32,7 +32,7 @@ function promptUser() {
           {
             type: "input",
             name: "contributions",
-            message: "Are there any contribution rules?"
+            message: "Are there any contributors ? If so enter them now"
           },
           {
             type: "input",
