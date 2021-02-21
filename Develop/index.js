@@ -90,10 +90,17 @@ function promptUser() {
       * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
         
       }
+      
+      promptUser()
+      .then(function(answers) {
+        const readme = generateREADME(answers);
     
-    promptUser()
-        .then(function(answers) {
-            const readme = generateREADME(answers);
-
-// Function call to initialize app
-init();
+     
+        return writeFileAsync("New README.md", readme);
+      })
+      .then(function() {
+        console.log(" README.md has been created!");
+      })
+      .catch(function(err) {
+        console.log(err);
+      });
