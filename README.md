@@ -1,3 +1,3 @@
 # Good-README-Generator
 
-* licensed under the MIT License
+* licensed under the [MIT License](LICENSE)
