@@ -19,6 +19,7 @@
 ## Instructions
 * Instructions will be shown below in a video :
 <img src="assets/zoom.gif" alt="Good README Generator"/>
+
 ## License
 * licensed under the [MIT License](LICENSE)
 ## Questions
