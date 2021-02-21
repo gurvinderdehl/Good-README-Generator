@@ -25,3 +25,8 @@
 ## Questions
 * For additional help or questions, please reach out to gurvinder360@hotmail.com
 * Follow me on Github at [gurvinderdehl](http://github.com/gurvinderdehl)
+
+## URLs 
+
+* The URL of the video demonstrating the application : https://drive.google.com/file/d/1QgrQkxH5qH4xfDie9tGzMaqV-kIxFw_N/view?usp=sharing
+* The URL of the GitHub repository: https://github.com/gurvinderdehl/Good-README-Generator
