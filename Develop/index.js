@@ -44,7 +44,7 @@ function promptUser() {
             message: "License?",
             name: "license",
             choices: [
-              "MIT License"
+              "[MIT License](LICENSE)"
              
             ]
           },
