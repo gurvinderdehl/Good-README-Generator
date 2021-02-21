@@ -14,6 +14,17 @@ function promptUser() {
             message: "What is your project titled?"
           },
 
+          {
+            type: "input",
+            name: "description",
+            message: "Briefly describe your project"
+          },
+          {
+            type: "input",
+            name: "install",
+            message: "Are there any installations required?"
+          },
+
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
 
