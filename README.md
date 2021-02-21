@@ -5,7 +5,7 @@
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Information](#usage-information)
 4. [Contributors](#contributors)
-5. [Test Instructions](#Instructions)
+5. [Instructions](#Instructions)
 6. [License](#license)
 7. [Questions](#questions)
 ## Project Description
