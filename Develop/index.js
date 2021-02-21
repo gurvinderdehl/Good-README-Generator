@@ -90,11 +90,10 @@ function promptUser() {
       * Follow me on Github at [${answers.github}](http://github.com/${answers.github})`;
         
       }
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-function init() {}
+    
+    promptUser()
+        .then(function(answers) {
+            const readme = generateREADME(answers);
 
 // Function call to initialize app
 init();
