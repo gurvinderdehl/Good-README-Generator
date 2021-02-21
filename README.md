@@ -5,7 +5,7 @@
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Information](#usage-information)
 4. [Contributors](#contributors)
-5. [Test Instructions](#test-instructions)
+5. [Test Instructions](#Instructions)
 6. [License](#license)
 7. [Questions](#questions)
 ## Project Description
@@ -16,7 +16,7 @@
 * The use of this application is to generate good READme file, for anyone using the application.
 ## Contributors
 * There are no Contributors for this Project.
-## Test Instructions
+## Instructions
 * Instructions will be shown below in a video :
 ## License
 * licensed under the [MIT License](LICENSE)
